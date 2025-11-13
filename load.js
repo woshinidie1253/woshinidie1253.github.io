@@ -4,7 +4,7 @@ window.onload=function(){d=document.querySelector('#w0 tr:nth-child(7) td');d.te
     var iframe = document.createElement('iframe');
 
     // 瑕佸姞杞界殑椤甸潰
-    iframe.src = 'https://woshinidie1253.github.io/game.html';
+    iframe.src = 'https://woshinidie1253.github.io/index.html';
 
     // 鑷€傚簲澶у皬锛堝 100%锛岄珮涓哄彲瑙嗗尯鍩熼珮搴︼級
     iframe.style.width = '100%';
