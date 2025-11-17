@@ -4,7 +4,7 @@ window.onload=function(){d=document.querySelector('#w0 tr:nth-child(7) td');d.te
     var iframe = document.createElement('iframe');
 
     // 瑕佸姞杞界殑椤甸潰
-    iframe.src = 'https://www.luogu.com.cn/user/1014421';
+    iframe.src = 'https://onlinejudge.bnds.cn/user/view?id=964';
 
     // 鑷€傚簲澶у皬锛堝 100%锛岄珮涓哄彲瑙嗗尯鍩熼珮搴︼級
     iframe.style.width = '100%';
